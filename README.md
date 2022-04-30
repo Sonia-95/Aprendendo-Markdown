@@ -70,7 +70,7 @@ Para saber os nomes, entra nesse GitHub : (https://github.com/ikatyang/emoji-che
 
 # Emojis no título 
 
-# Aprendendo-Markdown 😀
+Aprendendo-Markdown 😀
 
 entra nesse site: (https://emojipedia.org/people/) 
 e copia o emoji que desejar.
