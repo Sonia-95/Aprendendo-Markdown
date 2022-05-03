@@ -1,8 +1,39 @@
-# Aprendendo-Markdown ;)
-Praticando a linguagem Markdown
+# Guia Básico de Markdown :grinning:
+***
+# TITULAÇÕES
+```
+USA-SE # PARA ESPECIFICAR OS TÍTULOS:
+   # Titulo 1
+   ## Titulo 2
+   ### Titulo 3
+   #### Titulo 4
+   ##### Titulo 5
+   ###### Titulo 6
+```
+ RESULTADO
+   # Titulo 1
+   ## Titulo 2
+   ### Titulo 3
+   #### Titulo 4
+   ##### Titulo 5
+   ###### Titulo 6
+ ```
+ ```
+# NEGRITO - ITÁLICO - RISCADA
+ ```
+ PARA DEIXAR A PALAVRA EM NEGRITO USA-SE DOIS ASTERISCOS. 
+ Negrito : **MarkDown** 
+ 
+ PARA DEIXAR A PALAVRA EM ITÁLICO USA-SE ASTERISCO OU UNDERLINE. 
+ Itálico : *MarkDown*  ou _MarkDown_
+ 
+ PARA DEIXAR A PALAVRA RISCADA USA-SE ~~ 
+ Riscada: ~~Markdown~~
+ ```
+RESULTADO
 
 - Negrito : **MarkDown**
-- Itálico :  _MarkDown_ ou  *MarkDown*
+- Itálico : *MarkDown* ou _MarkDown_   
 - Riscada: ~~Markdown~~
 
 
